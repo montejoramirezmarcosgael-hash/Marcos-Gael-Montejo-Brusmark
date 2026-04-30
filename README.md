@@ -1,69 +1,69 @@
 # Marcos-Gael-Montejo-Brusmark
-# ⚡ Marcos Gael Montejo | Senior Software Architect & Educator
+# Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Brusmark Logo" width="180" style="border-radius: 10px; margin-right: 10px;">
-  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" alt="Escuela CapOl de Argentina" width="180" style="border-radius: 50%;">
+  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Principal" width="100%" style="border-radius: 15px;">
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Logo Brusmark" width="280">
 </p>
 
 ---
 
-### 🚀 Trayectoria y Formación Académica
-Especialista en desarrollo avanzado con experiencia internacional. Como **Instructor de Desarrollo Web Frontend en la Escuela CapOl, Argentina**, he liderado la formación técnica de nuevos desarrolladores, aplicando metodologías de ingeniería de software de alto nivel y rigor estratégico en cada proyecto.
+### Sobre mí y Brusmark
+Soy el fundador de **Brusmark**, una marca de tecnología enfocada en llevar a las pequeñas y medianas empresas al siguiente nivel digital. No solo escribo código; diseño soluciones que ayudan a los negocios a crecer con herramientas profesionales y estéticas de alto nivel. 
+
+Tengo experiencia real desarrollando aplicaciones y sistemas para PyMEs que buscan eficiencia y una presencia digital imponente.
 
 ---
 
-### 💻 CEO & Founder @Brusmark
-Director de **Brusmark**, marca enfocada en la arquitectura de software y el diseño digital disruptivo. Especializado en transformar modelos de negocio en productos tecnológicos escalables, con un enfoque en estética premium y funcionalidad corporativa.
+### Proyectos y Soluciones Digitales
+Me especializo en crear aplicaciones que funcionan y se ven increíbles. Aquí puedes ver parte de mi trabajo actual:
 
 <p align="center">
-  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Branding" width="400" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Mis Proyectos" width="85%" style="border-radius: 12px;">
 </p>
 
 ---
 
-### 📱 Ingeniería de Aplicativos & Innovación
-Desarrollo de soluciones digitales personalizadas con interfaces de alta fidelidad y arquitecturas robustas.
+### Experiencia y Docencia
+A pesar de mi enfoque empresarial con Brusmark, mantengo un fuerte compromiso con la educación tecnológica:
 
-<p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos y Aplicativos" width="450" style="border-radius: 12px;">
-</p>
+| Entidad | Rol | Descripción |
+| :--- | :--- | :--- |
+| **Escuela CapOl (Argentina)** | **Instructor Frontend** | He impartido clases a nivel internacional, formando a nuevos desarrolladores en tecnologías web modernas. |
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Innovando%20con%20Brusmark-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Authority-Instructor%20Internacional-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agency-Brusmark%20Tech-orange?style=for-the-badge" />
+  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;">
 </p>
 
 ---
 
-### 🛠️ Dominio Tecnológico (Tech Stack)
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `Java` `Python` `JavaScript` `C#` `C++` `PHP` `Kotlin` |
-| **Frontend** | `React.js` `HTML5/CSS3` `JavaScript ES6+` `Bootstrap` |
-| **Backend** | `Node.js` `Arquitecturas Serverless` `PHP` |
-| **Mobile** | `PWA (Progressive Web Apps)` `Android Development` |
-| **Databases** | `MySQL` `MongoDB` `SQL Server` |
+### Tecnologías que domino
+- **Lenguajes:** Java, Python, JavaScript, C#, C++, PHP, Kotlin.
+- **Web:** React.js, HTML5, CSS3, Bootstrap.
+- **Backend y Datos:** Node.js, MySQL, MongoDB, SQL Server.
+- **Móvil:** Desarrollo Android y PWA.
 
 ---
 
-### 📊 Métricas de Ingeniería & Rendimiento
+### Estadísticas de Desarrollo
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
 
-### 📩 Contacto Profesional & Consultoría
-- 💼 **Marca:** Brusmark
-- ⚡ **Especialidad:** Arquitectura de Software & Full-Stack Dev
-- 🌐 **TikTok:** @CiberSombraTech (Tech & Security)
-- 📍 **Ubicación:** Veracruz, México
+### Negocios y Contacto
+Estoy abierto a colaboraciones y proyectos de consultoría para empresas.
+- **Marca:** Brusmark
+- **TikTok:** @CiberSombraTech
+- **Pagos:** Acepto transferencias internacionales y cuento con billetera virtual para pagos en dólares (USD).
+- **Ubicación:** Veracruz, México.
 
 ---
 <p align="center">
-  *"El código no solo se escribe; se diseña para ser eterno."*
+  "El código no solo se escribe; se diseña para ser eterno."
 </p>
