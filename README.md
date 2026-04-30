@@ -2,7 +2,7 @@
 # Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" width="100%" style="border-radius: 15px;">
+  <img src="https://i.postimg.cc/Vr2v4zK7/brusmark.jpg" alt="Brusmark Principal" width="100%" style="border-radius: 15px;">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### Sobre mí y Brusmark
 Soy el fundador de **Brusmark**, una marca de tecnología dedicada a impulsar a pequeñas y medianas empresas mediante soluciones digitales de alta calidad. Mi enfoque es que cualquier negocio tenga acceso a software profesional, escalable y con una estética de primer nivel.
 
-Como desarrollador Junior, me especializo en entregar resultados con estándares corporativos para PyMEs.
+Como desarrollador Junior, me especializo en entregar resultados con estándares corporativos, ayudando a las PyMEs a modernizarse con herramientas potentes.
 
 ---
 
@@ -18,20 +18,20 @@ Como desarrollador Junior, me especializo en entregar resultados con estándares
 Desarrollo de sistemas personalizados con interfaces modernas y funcionales:
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" width="85%" style="border-radius: 12px;">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos" width="85%" style="border-radius: 12px;">
 </p>
 
 ---
 
 ### Experiencia Laboral y Docencia
-Mi base técnica se fortaleció con experiencia internacional, lo que aporta autoridad a mi marca personal.
+Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad y rigor a cada proyecto de mi marca.
 
 | Empresa / Institución | Rol | Descripción |
 | :--- | :--- | :--- |
 | **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos desarrolladores en tecnologías web modernas a nivel internacional. |
 
 <p align="left">
-  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;">
+  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;" alt="CapOl">
 </p>
 
 ---
