@@ -2,27 +2,30 @@
 # Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Principal" width="100%" style="border-radius: 15px;">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Logo Brusmark" width="280">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos y Aplicativos de Brusmark" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 </p>
 
 ---
 
 ### Sobre mí y Brusmark
-Soy el fundador de **Brusmark**, una marca de tecnología enfocada en llevar a las pequeñas y medianas empresas al siguiente nivel digital. No solo escribo código; diseño soluciones que ayudan a los negocios a crecer con herramientas profesionales y estéticas de alto nivel. 
+Soy el fundador de **Brusmark**, una marca de tecnología dedicada a llevar a las pequeñas y medianas empresas al siguiente nivel digital. Mi enfoque no es solo escribir código, sino diseñar soluciones integrales que ayuden a los negocios a crecer con herramientas profesionales y una estética de alto nivel.
 
 Tengo experiencia real desarrollando aplicaciones y sistemas para PyMEs que buscan eficiencia y una presencia digital imponente.
 
 ---
 
-### Proyectos y Soluciones Digitales
-Me especializo en crear aplicaciones que funcionan y se ven increíbles. Aquí puedes ver parte de mi trabajo actual:
-
+### Identidad Corporativa y Visión
 <p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Mis Proyectos" width="85%" style="border-radius: 12px;">
+  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Logo Brusmark" width="250">
+</p>
+
+Lidero Brusmark con la visión de democratizar la tecnología de alta calidad para negocios en crecimiento.
+
+---
+
+### Branding y Presencia de Marca
+<p align="center">
+  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Branding" width="70%" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
 </p>
 
 ---
