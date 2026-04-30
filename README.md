@@ -2,7 +2,7 @@
 # Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/Vr2v4zK7/brusmark.jpg" alt="Brusmark Principal" width="100%" style="border-radius: 15px;">
+  <img src="https://i.postimg.cc/Vr2v4zK7/brusmark.jpg" alt="Brusmark" width="600" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 </p>
 
 ---
@@ -18,20 +18,20 @@ Como desarrollador Junior, me especializo en entregar resultados con estándares
 Desarrollo de sistemas personalizados con interfaces modernas y funcionales:
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos" width="85%" style="border-radius: 12px;">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos" width="75%" style="border-radius: 10px;">
 </p>
 
 ---
 
 ### Experiencia Laboral y Docencia
-Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad y rigor a cada proyecto de mi marca.
+Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad a mi marca personal.
 
 | Empresa / Institución | Rol | Descripción |
 | :--- | :--- | :--- |
 | **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos desarrolladores en tecnologías web modernas a nivel internacional. |
 
 <p align="left">
-  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;" alt="CapOl">
+  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="70" style="border-radius: 50%;" alt="CapOl">
 </p>
 
 ---
@@ -46,8 +46,8 @@ Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad y ri
 
 ### Estadísticas de Código
 <p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad y ri
 ### Negocios y Contacto
 - **Marca:** Brusmark
 - **TikTok:** @CiberSombraTech
-- **Pagos:** Cuento con billetera virtual para recibir pagos internacionales en dólares (USD).
+- **Pagos:** Billetera virtual habilitada para recibir pagos en dólares (USD).
 - **Ubicación:** Veracruz, México.
 
 ---
