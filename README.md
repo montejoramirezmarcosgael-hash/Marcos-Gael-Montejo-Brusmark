@@ -2,36 +2,36 @@
 # Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/Vr2v4zK7/brusmark.jpg" alt="Brusmark" width="600" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+  <img src="https://i.postimg.cc/Cdyfj49C/brusmarksito.jpg" alt="Brusmark" width="650" style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.4);">
 </p>
 
 ---
 
 ### Sobre mí y Brusmark
-Soy el fundador de **Brusmark**, una marca de tecnología dedicada a impulsar a pequeñas y medianas empresas mediante soluciones digitales de alta calidad. Mi enfoque es que cualquier negocio tenga acceso a software profesional, escalable y con una estética de primer nivel.
+Soy el fundador de **Brusmark**, una agencia tecnológica enfocada en potenciar a pequeñas y medianas empresas con soluciones digitales de alto nivel. Mi objetivo es democratizar el software profesional, ofreciendo herramientas escalables y estéticas premium para negocios en crecimiento.
 
-Como desarrollador Junior, me especializo en entregar resultados con estándares corporativos, ayudando a las PyMEs a modernizarse con herramientas potentes.
+Como desarrollador Junior, mi enfoque está en la entrega de resultados con rigor técnico y estándares de nivel corporativo.
 
 ---
 
 ### Proyectos y Desarrollo de Aplicativos
-Desarrollo de sistemas personalizados con interfaces modernas y funcionales:
+Creación de sistemas personalizados con interfaces modernas y alto rendimiento:
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos" width="75%" style="border-radius: 10px;">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos" width="80%" style="border-radius: 10px;">
 </p>
 
 ---
 
 ### Experiencia Laboral y Docencia
-Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad a mi marca personal.
+Mi trayectoria incluye experiencia internacional en formación técnica, lo que aporta autoridad a mis procesos de desarrollo.
 
 | Empresa / Institución | Rol | Descripción |
 | :--- | :--- | :--- |
-| **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos desarrolladores en tecnologías web modernas a nivel internacional. |
+| **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos talentos en tecnologías web modernas y estándares globales. |
 
 <p align="left">
-  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="70" style="border-radius: 50%;" alt="CapOl">
+  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="75" style="border-radius: 50%;" alt="CapOl">
 </p>
 
 ---
@@ -39,23 +39,23 @@ Mi base técnica cuenta con respaldo internacional, lo que aporta autoridad a mi
 ### Dominio Tecnológico
 - **Lenguajes:** Java, Python, JavaScript, C#, C++, PHP, Kotlin.
 - **Web:** React.js, HTML5, CSS3, Bootstrap.
-- **Datos:** MySQL, MongoDB, SQL Server, Node.js.
+- **Backend/Datos:** Node.js, MySQL, MongoDB, SQL Server.
 - **Móvil:** Desarrollo Android y PWA.
 
 ---
 
 ### Estadísticas de Código
 <p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
 
-### Negocios y Contacto
+### Negocios y Contacto Profesional
 - **Marca:** Brusmark
 - **TikTok:** @CiberSombraTech
-- **Pagos:** Billetera virtual habilitada para recibir pagos en dólares (USD).
+- **Pagos Globales:** Cuento con billetera virtual habilitada para recibir pagos internacionales en dólares (USD).
 - **Ubicación:** Veracruz, México.
 
 ---
