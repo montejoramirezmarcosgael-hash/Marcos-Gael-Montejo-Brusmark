@@ -2,56 +2,56 @@
 # Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos y Aplicativos de Brusmark" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Hero Image" width="100%" style="border-radius: 15px;">
 </p>
 
 ---
 
 ### Sobre mí y Brusmark
-Soy el fundador de **Brusmark**, una marca de tecnología dedicada a llevar a las pequeñas y medianas empresas al siguiente nivel digital. Mi enfoque no es solo escribir código, sino diseñar soluciones integrales que ayuden a los negocios a crecer con herramientas profesionales y una estética de alto nivel.
+Soy el fundador de **Brusmark**, una marca de tecnología dedicada a impulsar a pequeñas y medianas empresas mediante soluciones digitales de alta calidad. Mi objetivo es que cualquier negocio, sin importar su tamaño, tenga acceso a software profesional, escalable y con una estética de primer nivel.
 
-Tengo experiencia real desarrollando aplicaciones y sistemas para PyMEs que buscan eficiencia y una presencia digital imponente.
-
----
-
-### Identidad Corporativa y Visión
-<p align="center">
-  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Logo Brusmark" width="250">
-</p>
-
-Lidero Brusmark con la visión de democratizar la tecnología de alta calidad para negocios en crecimiento.
+Aunque me identifico como desarrollador Junior, mi enfoque está en la excelencia técnica y en entregar resultados que superen las expectativas del mercado corporativo.
 
 ---
 
-### Branding y Presencia de Marca
+### Identidad de Marca
 <p align="center">
-  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Branding" width="70%" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Brusmark Logo" width="300">
 </p>
 
 ---
 
-### Experiencia y Docencia
-A pesar de mi enfoque empresarial con Brusmark, mantengo un fuerte compromiso con la educación tecnológica:
+### Proyectos y Desarrollo de Aplicativos
+Me especializo en crear sistemas y aplicaciones que resuelven problemas reales. Aquí puedes ver una muestra de mi enfoque visual y técnico:
 
-| Entidad | Rol | Descripción |
+<p align="center">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos Brusmark" width="85%" style="border-radius: 12px;">
+</p>
+
+---
+
+### Experiencia Profesional y Docencia
+Mi base técnica se fortaleció con experiencia internacional, lo que me permite aportar una visión global a mis proyectos actuales.
+
+| Empresa / Institución | Rol | Descripción |
 | :--- | :--- | :--- |
-| **Escuela CapOl (Argentina)** | **Instructor Frontend** | He impartido clases a nivel internacional, formando a nuevos desarrolladores en tecnologías web modernas. |
+| **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos talentos en desarrollo web, compartiendo conocimientos en tecnologías modernas. |
 
 <p align="left">
-  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;">
+  <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;" alt="Experiencia CapOl">
 </p>
 
 ---
 
-### Tecnologías que domino
+### Tecnologías de Trabajo
 - **Lenguajes:** Java, Python, JavaScript, C#, C++, PHP, Kotlin.
-- **Web:** React.js, HTML5, CSS3, Bootstrap.
-- **Backend y Datos:** Node.js, MySQL, MongoDB, SQL Server.
-- **Móvil:** Desarrollo Android y PWA.
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap.
+- **Bases de Datos:** MySQL, MongoDB, SQL Server.
+- **Sistemas:** Node.js, Desarrollo Android y PWA.
 
 ---
 
-### Estadísticas de Desarrollo
+### Estadísticas de Código
 <p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
@@ -59,11 +59,11 @@ A pesar de mi enfoque empresarial con Brusmark, mantengo un fuerte compromiso co
 
 ---
 
-### Negocios y Contacto
-Estoy abierto a colaboraciones y proyectos de consultoría para empresas.
+### Negocios y Consultoría
+Estoy disponible para trabajar con PyMEs que necesiten modernizar su infraestructura digital.
 - **Marca:** Brusmark
 - **TikTok:** @CiberSombraTech
-- **Pagos:** Acepto transferencias internacionales y cuento con billetera virtual para pagos en dólares (USD).
+- **Pagos Globales:** Cuento con billetera virtual habilitada para recibir pagos internacionales en dólares (USD).
 - **Ubicación:** Veracruz, México.
 
 ---
