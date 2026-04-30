@@ -2,40 +2,33 @@
 # Marcos Gael Montejo | Desarrollador Full-Stack & Fundador de Brusmark
 
 <p align="center">
-  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark Hero Image" width="100%" style="border-radius: 15px;">
+  <img src="https://i.postimg.cc/c45RJQFD/brusmark234.jpg" alt="Brusmark" width="100%" style="border-radius: 15px;">
 </p>
 
 ---
 
 ### Sobre mí y Brusmark
-Soy el fundador de **Brusmark**, una marca de tecnología dedicada a impulsar a pequeñas y medianas empresas mediante soluciones digitales de alta calidad. Mi objetivo es que cualquier negocio, sin importar su tamaño, tenga acceso a software profesional, escalable y con una estética de primer nivel.
+Soy el fundador de **Brusmark**, una marca de tecnología dedicada a llevar a las pequeñas y medianas empresas al siguiente nivel digital. Mi enfoque es diseñar soluciones integrales que ayuden a los negocios a crecer con herramientas profesionales y una estética de alto nivel.
 
-Aunque me identifico como desarrollador Junior, mi enfoque está en la excelencia técnica y en entregar resultados que superen las expectativas del mercado corporativo.
-
----
-
-### Identidad de Marca
-<p align="center">
-  <img src="https://i.postimg.cc/d3VCs1rK/brusmark.jpg" alt="Brusmark Logo" width="300">
-</p>
+Como desarrollador Junior, me especializo en crear sistemas y aplicaciones eficientes con una presencia digital imponente para el sector corporativo y PyMEs.
 
 ---
 
 ### Proyectos y Desarrollo de Aplicativos
-Me especializo en crear sistemas y aplicaciones que resuelven problemas reales. Aquí puedes ver una muestra de mi enfoque visual y técnico:
+Desarrollo de soluciones personalizadas con interfaces de alta fidelidad:
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos Brusmark" width="85%" style="border-radius: 12px;">
+  <img src="https://i.postimg.cc/ncss0N1W/aplicatibos.jpg" alt="Proyectos" width="85%" style="border-radius: 12px;">
 </p>
 
 ---
 
-### Experiencia Profesional y Docencia
-Mi base técnica se fortaleció con experiencia internacional, lo que me permite aportar una visión global a mis proyectos actuales.
+### Experiencia Laboral y Docencia
+Mi trayectoria incluye la formación de talentos internacionales, lo que respalda la calidad técnica de mi marca personal.
 
-| Empresa / Institución | Rol | Descripción |
+| Entidad | Rol | Descripción |
 | :--- | :--- | :--- |
-| **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos talentos en desarrollo web, compartiendo conocimientos en tecnologías modernas. |
+| **Escuela CapOl (Argentina)** | **Instructor Frontend** | Formación de nuevos desarrolladores en tecnologías web modernas y estándares de la industria. |
 
 <p align="left">
   <img src="https://i.postimg.cc/TP0qfrmL/Whats-App-Image-2026-04-30-at-1-45-48-PM.jpg" width="80" style="border-radius: 50%;" alt="Experiencia CapOl">
@@ -43,15 +36,15 @@ Mi base técnica se fortaleció con experiencia internacional, lo que me permite
 
 ---
 
-### Tecnologías de Trabajo
+### Dominio Tecnológico
 - **Lenguajes:** Java, Python, JavaScript, C#, C++, PHP, Kotlin.
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap.
-- **Bases de Datos:** MySQL, MongoDB, SQL Server.
-- **Sistemas:** Node.js, Desarrollo Android y PWA.
+- **Web:** React.js, HTML5, CSS3, Bootstrap.
+- **Backend y Datos:** Node.js, MySQL, MongoDB, SQL Server.
+- **Móvil:** Desarrollo Android y PWA.
 
 ---
 
-### Estadísticas de Código
+### Estadísticas de Desarrollo
 <p align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Montejoramirezmarcosgael-has&show_icons=true&theme=tokyonight&include_all_commits=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montejoramirezmarcosgael-has&layout=compact&langs_count=7&theme=tokyonight" />
@@ -59,11 +52,10 @@ Mi base técnica se fortaleció con experiencia internacional, lo que me permite
 
 ---
 
-### Negocios y Consultoría
-Estoy disponible para trabajar con PyMEs que necesiten modernizar su infraestructura digital.
+### Contacto y Negocios
 - **Marca:** Brusmark
 - **TikTok:** @CiberSombraTech
-- **Pagos Globales:** Cuento con billetera virtual habilitada para recibir pagos internacionales en dólares (USD).
+- **Pagos:** Cuento con billetera virtual habilitada para recibir pagos en dólares (USD).
 - **Ubicación:** Veracruz, México.
 
 ---
